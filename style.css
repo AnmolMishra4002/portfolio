@@ -8,7 +8,9 @@ html,body{
     height: 100%;
     width: 100%;
 }
-
+.circle{
+    font-size: 100px;
+}
 .hero .hero-text span{
     color: red;
     /* background-color: red; */
